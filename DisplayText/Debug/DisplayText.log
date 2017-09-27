@@ -1,0 +1,4 @@
+﻿  Steve_Wang_DisplayText.cpp
+c:\compsci1\displaytext\displaytext\steve_wang_displaytext.cpp(47): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  DisplayText.vcxproj -> C:\CompSci1\DisplayText\Debug\DisplayText.exe
+  DisplayText.vcxproj -> C:\CompSci1\DisplayText\Debug\DisplayText.pdb (Partial PDB)
